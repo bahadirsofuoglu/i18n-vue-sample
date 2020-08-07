@@ -3,18 +3,18 @@
     <div id="nav">
       <app-switch></app-switch>
       <br />
-      <HelloWorld />
+      <Form />
 
       <Switch />
     </div>
   </div>
 </template>
 <script>
-import HelloWorld from "@/components/HelloWorld.vue";
+import Form from "@/components/Form.vue";
 import Switch from "@/components/Switch.vue";
 export default {
   components: {
-    HelloWorld,
+    Form,
     "app-switch": Switch,
   },
 };
