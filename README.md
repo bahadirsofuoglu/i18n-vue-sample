@@ -1,4 +1,4 @@
-# fakedash
+# i18n-vue-sample
 
 ## Project setup
 ```
