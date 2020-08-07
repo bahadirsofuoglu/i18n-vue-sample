@@ -1,0 +1,14 @@
+{
+  "name": "İsim",
+  "surname": "Soyisim",
+  "gender": "Cinsiyet",
+  "adult": "Yetişkinim",
+  "!adult": "Yetişkin Değilim",
+  "E-mail": "E-Posta",
+  "Select": "Seçiniz",
+  "adress": "Adres",
+  "read": "Okudum",
+  "certify": "Onaylıyorum",
+  "submit": "Gönder",
+  "Reset": "Bilgileri Temizle"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Name",
+  "surname": "Surname",
+  "gender": "Gender",
+  "adult": "Adult",
+  "!adult": "Under Age",
+  "E-mail": "E-Mail",
+  "Select one": "Select one",
+  "adress": "Adress",
+  "read": "I read",
+  "certify": "I certify",
+  "submit": "Submit",
+  "reset": "Reset"
+}
